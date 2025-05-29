@@ -7,6 +7,8 @@ public class Objective1Lab2 {
       System.out.printIn("| 2. Eggs        |");
       System.out.printIn("| 3. Bread       |");
       System.out.printIn("----------------")
-    */
+
   }
 }
+
+complete object1lab2
