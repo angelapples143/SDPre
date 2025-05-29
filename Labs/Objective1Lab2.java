@@ -11,4 +11,4 @@ public class Objective1Lab2 {
   }
 }
 
-complete object1lab2
+complete objective1lab2
